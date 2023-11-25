@@ -1,0 +1,5 @@
+NAME: ScanObjectNNFewShot
+DATA_PATH: data/ScanObjectNN_Fewshot_like_crossPoint
+NUM_CATEGORY: 15
+N_POINTS: 8192
+USE_NORMALS: FALSE
